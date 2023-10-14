@@ -1,0 +1,64 @@
+body{
+    font-family: "Poppins", Sans-serif;
+}
+
+
+header{
+}
+.dropdown{
+    color: white;
+}
+ nav p{
+    color: #0EC26A;
+    font-family: "Poppins", Sans-serif;
+    font-size:medium;
+    
+
+    
+}
+.bg-color{
+    background-color: #0EC26A;
+    border-color: #0EC26A;
+}
+ section h1{
+    font-family: "Poppins", Sans-serif;
+    color: #324A58;
+
+}
+section .row button{
+    background-color: #0EC26A;
+    color: #fff;
+}
+i{
+    fill: #fff;
+}
+section .row .green{
+    background-color: #0EC26A;
+}
+section .lern{
+    background-color: #324A58;
+}
+section.lern .row button{
+    background-color: #0000;
+    color: #0EC26A;
+}
+.container .card .bn{
+    background-color: #0EC26A;
+    color: #fff;
+}
+.container .bgrow{
+    background-color: #324A58;
+}
+.container  .crd p{
+    font-family: "Poppins", Sans-serif;;
+}
+.container .row .bnn{
+    background-color: #0000;
+    color: #0EC26A;
+}
+section .bg12{
+background-color: #f8f8f8;
+}
+section button  .bn-last{
+    background-color: #0EC26A;
+}
